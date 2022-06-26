@@ -1,0 +1,58 @@
+[
+    {
+        "model": "redmi",
+        "color": "black",
+        "price": "140",
+        "product_id": 1,
+        "product_name": "redmi note 6 pro",
+        "sub_category_id": 1
+    },
+    {
+        "model": "samsung",
+        "color": "red",
+        "price": "190",
+        "product_id": 2,
+        "product_name": "galaxy 7",
+        "sub_category_id": 1
+    },
+    {
+        "model": "Artel",
+        "color": "black",
+        "price": "340",
+        "product_id": 3,
+        "product_name": "Artel 48 2x",
+        "sub_category_id": 2
+    },
+    {
+        "model": "hp",
+        "color": "silver",
+        "price": "640",
+        "product_id": 4,
+        "product_name": "hp pavilon",
+        "sub_category_id": 3
+    },
+    {
+        "model": "salamandra",
+        "color": "black",
+        "price": "32",
+        "product_id": 5,
+        "product_name": "salamandra 42 x1",
+        "sub_category_id": 4
+    },
+    {
+        "model": "polo",
+        "color": "white",
+        "price": "12",
+        "product_id": 6,
+        "product_name": "polo xr13",
+        "sub_category_id": 5
+    },
+    {
+        "model": "Huawei",
+        "color": "white",
+        "price": "212",
+        "product_id": 7,
+        "product_name": "P 30lite",
+        "sub_category_id": 1
+    }
+]
