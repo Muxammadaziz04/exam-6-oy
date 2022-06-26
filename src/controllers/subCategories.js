@@ -20,6 +20,7 @@ const GET = (req, res, next) => {
                 return product
             }
         })
+        delete subCtg.categoryId
         return subCtg
     }))
 }
